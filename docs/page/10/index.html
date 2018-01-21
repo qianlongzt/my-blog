@@ -55,7 +55,7 @@
 
 
 
-<meta property="og:updated_time" content="2016-03-10T23:13:52&#43;00:00"/>
+<meta property="og:updated_time" content="2016-03-11T13:01:16&#43;00:00"/>
 
 
 
@@ -145,6 +145,58 @@
     
       <article class="post">
   <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/">smarty 模板的引入函数</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2016-03-11 01:01 </span>
+      <div class="post-category">
+          
+            <a href="/my-blog/categories/code/"> code </a>
+          
+        </div>
+      <span class="more-meta"> 约 71 字 </span>
+      <span class="more-meta"> 预计阅读 1 分钟 </span>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      include file 要包含的模板文件 ，其他可以随便定义的属性， 会当作变量传给模板使用（只能在模板中使用） {include file=&ldquo;要包含的文件&rdquo;
+    </div>
+    <div class="read-more">
+      <a href="/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/" class="read-more-link">阅读更多</a>
+    </div>
+  </div>
+</article>
+
+    
+      <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/my-blog/post/smarty%E5%BE%AA%E7%8E%AF/">smarty循环</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2016-03-10 11:29 </span>
+      <div class="post-category">
+          
+            <a href="/my-blog/categories/code/"> code </a>
+          
+        </div>
+      <span class="more-meta"> 约 448 字 </span>
+      <span class="more-meta"> 预计阅读 1 分钟 </span>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      &lt;section name=[循环变量] loop=[遍历的变量]&gt; {$[遍历的变量][循环变量].title} {$[遍历的变量][循环变量].auth
+    </div>
+    <div class="read-more">
+      <a href="/my-blog/post/smarty%E5%BE%AA%E7%8E%AF/" class="read-more-link">阅读更多</a>
+    </div>
+  </div>
+</article>
+
+    
+      <article class="post">
+  <header class="post-header">
     <h1 class="post-title"><a class="post-link" href="/my-blog/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/">smarty条件判断</a></h1>
     <div class="post-meta">
       <span class="post-time"> 2016-03-10 11:13 </span>
@@ -164,58 +216,6 @@
     </div>
     <div class="read-more">
       <a href="/my-blog/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/" class="read-more-link">阅读更多</a>
-    </div>
-  </div>
-</article>
-
-    
-      <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/my-blog/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/">smarty变量调节器</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2016-03-10 11:01 </span>
-      <div class="post-category">
-          
-            <a href="/my-blog/categories/code/"> code </a>
-          
-        </div>
-      <span class="more-meta"> 约 301 字 </span>
-      <span class="more-meta"> 预计阅读 1 分钟 </span>
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      首字母大写captitalie {$articleTitle|captitalize} 字符串连接 cat {$articleTitle|cat: " yesterday."} 日期格式化 date_format {$date|date_format} //月，日，年 {$date | date_format : " %A, %B %e, %Y %H:%M:%S"} 为未赋值或为空的变量指定默认值defaul
-    </div>
-    <div class="read-more">
-      <a href="/my-blog/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/" class="read-more-link">阅读更多</a>
-    </div>
-  </div>
-</article>
-
-    
-      <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/my-blog/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/">smarty简单配置</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 2016-03-10 10:49 </span>
-      <div class="post-category">
-          
-            <a href="/my-blog/categories/code/"> code </a>
-          
-        </div>
-      <span class="more-meta"> 约 269 字 </span>
-      <span class="more-meta"> 预计阅读 1 分钟 </span>
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      require_once(&lsquo;smarty/Smarty.class.php&rsquo;); //引入smarty类 $smarty = new Smarty();//实例化 smarty类 $smarty -&gt; left_delimiter = &ldquo;{&rdquo;; //定义左定界符 $smarty -&gt; right_delimiter = &ldquo;}&rdquo;;/
-    </div>
-    <div class="read-more">
-      <a href="/my-blog/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/" class="read-more-link">阅读更多</a>
     </div>
   </div>
 </article>

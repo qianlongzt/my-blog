@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 21 Jan 2018 20:31:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2018 01:04:51 +0800</lastBuildDate>
     
 	<atom:link href="https://qianlongzt.github.io/my-blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>密码管理工具</title>
+      <link>https://qianlongzt.github.io/my-blog/post/%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 22 Jan 2018 01:04:51 +0800</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</guid>
+      <description>个人密码管理 对于我个人来说我尝试过不同的网站使用相同的密码，对于重要的网站，我使用更复杂的密码。 也尝试过使用不同密码管理工具 lastpass</description>
+    </item>
     
     <item>
       <title>总结自己的技术史博客史</title>
@@ -18,6 +27,15 @@
       
       <guid>https://qianlongzt.github.io/my-blog/post/%E6%80%BB%E7%BB%93%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8F%B2%E5%8D%9A%E5%AE%A2%E5%8F%B2/</guid>
       <description>萌芽 2014年的我还是没有电脑，只有手机一部手机，当时我就用自己的手机合室友的电脑学习了 HTML、CSS、JavaScript、PHP、My</description>
+    </item>
+    
+    <item>
+      <title>通过阿里云备份恢复误删除的 MySQL 数据表</title>
+      <link>https://qianlongzt.github.io/my-blog/post/%E9%80%9A%E8%BF%87%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%87%E4%BB%BD%E6%81%A2%E5%A4%8D%E8%AF%AF%E5%88%A0%E9%99%A4%E7%9A%84mysql%E6%95%B0%E6%8D%AE%E8%A1%A8/</link>
+      <pubDate>Sat, 16 Sep 2017 03:42:48 +0800</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/%E9%80%9A%E8%BF%87%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%87%E4%BB%BD%E6%81%A2%E5%A4%8D%E8%AF%AF%E5%88%A0%E9%99%A4%E7%9A%84mysql%E6%95%B0%E6%8D%AE%E8%A1%A8/</guid>
+      <description>在有阿里云 RDS 备份的情况下，恢复误删除的 MySQL 数据表 阿里云 RDS 环境 MySQL 5.6，恢复环境 5.7 数据找回 还好 Aliyun 数据库有备份文件（数据目录备份），我下载后使用数</description>
     </item>
     
     <item>
