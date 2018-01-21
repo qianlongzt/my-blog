@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>正式域名 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E6%AD%A3%E5%BC%8F%E5%9F%9F%E5%90%8D/</link>
+    <description>Recent content in 正式域名 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 13 May 2015 21:05:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E6%AD%A3%E5%BC%8F%E5%9F%9F%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>博客域名正式为blog.z-72.com</title>
+      <link>https://qianlongzt.github.io/my-blog/post/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%AD%A3%E5%BC%8F%E4%B8%BAblog.z-72.com/</link>
+      <pubDate>Wed, 13 May 2015 21:05:00 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/%E5%8D%9A%E5%AE%A2%E5%9F%9F%E5%90%8D%E6%AD%A3%E5%BC%8F%E4%B8%BAblog.z-72.com/</guid>
+      <description>博客域名正式为http://blog.z-72.com</description>
+    </item>
+    
+  </channel>
+</rss>

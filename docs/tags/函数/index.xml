@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>函数 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E5%87%BD%E6%95%B0/</link>
+    <description>Recent content in 函数 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Mar 2016 16:30:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>smarty 使用函数</title>
+      <link>https://qianlongzt.github.io/my-blog/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Fri, 11 Mar 2016 16:30:52 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</guid>
+      <description>使用php函数 {函数的第一个参数| php内置函数名[:第n个参数]|} 这样子使用函数，函数必须要有一个参数 date函数 {&amp;lsquo;Y-m-d&amp;rsquo;| date: $time} str_repl</description>
+    </item>
+    
+    <item>
+      <title>c语言指向函数的指针,返回指针的函数</title>
+      <link>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Sun, 06 Mar 2016 16:41:03 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</guid>
+      <description>函数指针一般定义： 类型标识符 （*变量名）（形参类型列表） 如 char (*f1) (float); int （*f2）（int,float); double(*f)(double)； double(*q)(double,dobule);</description>
+    </item>
+    
+  </channel>
+</rss>

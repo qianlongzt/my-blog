@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环境变量配置文件 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
+    <description>Recent content in 环境变量配置文件 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Mar 2016 01:40:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>环境变量配置文件</title>
+      <link>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Tue, 08 Mar 2016 01:40:24 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
+      <description>source 配置文件 重新加载这个配置文件 . 这个点是source的缩写 source 配置文件 = . 配置文件 放在/etc下的配置文件是对所有用户生效的，放环境变量文件：</description>
+    </item>
+    
+  </channel>
+</rss>

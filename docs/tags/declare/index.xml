@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declare on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/declare/</link>
+    <description>Recent content in Declare on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 08 Mar 2016 00:54:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/declare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>shell变量声明为非字符串类型</title>
+      <link>https://qianlongzt.github.io/my-blog/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</link>
+      <pubDate>Tue, 08 Mar 2016 00:54:30 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</guid>
+      <description>变量声明类型 declare [+/-] [选项] [变量名] - 给变量设定类型属性 + 取消变量的类型属性 -a 将变量声明为数组型 1、数组的声明（后面用方括号）：可以直接后面用</description>
+    </item>
+    
+  </channel>
+</rss>

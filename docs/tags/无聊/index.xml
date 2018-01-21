@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无聊 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E6%97%A0%E8%81%8A/</link>
+    <description>Recent content in 无聊 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Apr 2015 12:32:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E6%97%A0%E8%81%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>愚人节</title>
+      <link>https://qianlongzt.github.io/my-blog/post/%E6%84%9A%E4%BA%BA%E8%8A%82/</link>
+      <pubDate>Wed, 01 Apr 2015 12:32:52 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/%E6%84%9A%E4%BA%BA%E8%8A%82/</guid>
+      <description>不管怎样，愚人节都来了，但为什么夏天也来了</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>结构体大小 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</link>
+    <description>Recent content in 结构体大小 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Mar 2016 16:51:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>c语言计算结构体大小</title>
+      <link>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</link>
+      <pubDate>Sun, 06 Mar 2016 16:51:12 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</guid>
+      <description>来源于知乎：https://www.zhihu.com/question/28958350 和 百度 http://zhidao.baidu.com/link?url=9C9BY8tjt11WX5M3nqcSg1Yxt2ljxRlUqAFVS-DnuXoJwmWjpPHt9WEe9a8eueN2uMoz4RSElZn5kj_1oG-NMq 在缺省对齐下我先给你说下三条准则吧， 【1】</description>
+    </item>
+    
+  </channel>
+</rss>

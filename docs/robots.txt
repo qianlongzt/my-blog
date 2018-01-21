@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://qianlongzt.github.io/my-blog/sitemap.xml

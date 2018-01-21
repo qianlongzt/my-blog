@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>转义 on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/%E8%BD%AC%E4%B9%89/</link>
+    <description>Recent content in 转义 on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Mar 2016 16:58:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E8%BD%AC%E4%B9%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>php字符串的转义</title>
+      <link>https://qianlongzt.github.io/my-blog/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</link>
+      <pubDate>Sun, 06 Mar 2016 16:58:24 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</guid>
+      <description>php字符串转义函数addslashes() 函数说明：用于对特殊字符加上转义字符，返回一个字符串 返回值：一个经过转义后的字符串 例子： $str = &#34;what&#39;s your</description>
+    </item>
+    
+  </channel>
+</rss>

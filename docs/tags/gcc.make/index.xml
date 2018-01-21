@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gcc.make on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/gcc.make/</link>
+    <description>Recent content in Gcc.make on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Mar 2016 16:49:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/gcc.make/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>make 帮助编译</title>
+      <link>https://qianlongzt.github.io/my-blog/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</link>
+      <pubDate>Sun, 06 Mar 2016 16:49:17 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</guid>
+      <description>#this is a make file hello.out:max.o min.o main.c gcc max.o min.o main.c -o hello.out max.o:max.c gcc -c max.c min.o:min.c gcc -c min.c Make在linux和unix中非常重要； Make工具可以将大型的的开发项目分成若干个模块； Ma</description>
+    </item>
+    
+  </channel>
+</rss>

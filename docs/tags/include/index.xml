@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Include on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/include/</link>
+    <description>Recent content in Include on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Mar 2016 13:01:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/include/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>smarty 模板的引入函数</title>
+      <link>https://qianlongzt.github.io/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Fri, 11 Mar 2016 13:01:16 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</guid>
+      <description>include file 要包含的模板文件 ，其他可以随便定义的属性， 会当作变量传给模板使用（只能在模板中使用） {include file=&amp;ldquo;要包含的文件&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

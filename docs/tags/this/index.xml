@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This on 潜龙在天的博客</title>
+    <link>https://qianlongzt.github.io/my-blog/tags/this/</link>
+    <description>Recent content in This on 潜龙在天的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 16 Mar 2016 15:24:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://qianlongzt.github.io/my-blog/tags/this/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>c&#43;&#43;对象this指针</title>
+      <link>https://qianlongzt.github.io/my-blog/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</link>
+      <pubDate>Wed, 16 Mar 2016 15:24:54 +0000</pubDate>
+      
+      <guid>https://qianlongzt.github.io/my-blog/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</guid>
+      <description>来自http://www.runoob.com/cplusplus/cpp-this-pointer.html和http://www.imo</description>
+    </item>
+    
+  </channel>
+</rss>
