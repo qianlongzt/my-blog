@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yum on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/yum/</link>
+    <link>http://blog.z-72.com/tags/yum/</link>
     <description>Recent content in Yum on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Mar 2016 16:25:31 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/yum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/yum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux软件安装管理</title>
-      <link>https://qianlongzt.github.io/my-blog/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</link>
+      <link>http://blog.z-72.com/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sun, 06 Mar 2016 16:25:31 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://blog.z-72.com/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</guid>
       <description>来源： Linux软件安装管理_学习笔记_慕课网 源码包： 开源，可以修改源代码的。软件是编译安装，所以更加适合自己的系统，更加稳定且效率更高。卸</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>类 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E7%B1%BB/</link>
+    <link>http://blog.z-72.com/tags/%E7%B1%BB/</link>
     <description>Recent content in 类 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 12 Mar 2016 23:32:55 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C&#43;&#43; 类 &amp;amp; 对象</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</link>
+      <link>http://blog.z-72.com/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</link>
       <pubDate>Sat, 12 Mar 2016 23:32:55 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</guid>
+      <guid>http://blog.z-72.com/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</guid>
       <description>来源http://www.runoob.com/cplusplus/cpp-classes-objects.html 类用于指定对象的形式，它</description>
     </item>
     
     <item>
       <title>php类</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%B1%BB/</link>
+      <link>http://blog.z-72.com/post/php%E7%B1%BB/</link>
       <pubDate>Sun, 06 Mar 2016 16:52:35 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%B1%BB/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%B1%BB/</guid>
       <description>在类中定义的变量称之为属性，通常属性跟数据库中的字段有一定的关联，因此也可以称作“字段”。属性声明是由关键字 public，protected</description>
     </item>
     

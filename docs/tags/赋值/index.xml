@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赋值 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E8%B5%8B%E5%80%BC/</link>
+    <link>http://blog.z-72.com/tags/%E8%B5%8B%E5%80%BC/</link>
     <description>Recent content in 赋值 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Mar 2016 17:00:37 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E8%B5%8B%E5%80%BC/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E8%B5%8B%E5%80%BC/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PHP中的赋值运算符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
       <pubDate>Sun, 06 Mar 2016 17:00:37 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
       <description>PHP的赋值运算符有两种，分别是： (1)“=”：把右边表达式的值赋给左边的运算数。它将右边表达式值复制一份，交给左边的运算数。换而言之，首先</description>
     </item>
     

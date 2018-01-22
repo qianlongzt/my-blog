@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cron on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/cron/</link>
+    <link>http://blog.z-72.com/tags/cron/</link>
     <description>Recent content in Cron on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 05 Mar 2016 22:47:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/cron/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/cron/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>crond</title>
-      <link>https://qianlongzt.github.io/my-blog/post/crond/</link>
+      <link>http://blog.z-72.com/post/crond/</link>
       <pubDate>Sat, 05 Mar 2016 22:47:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/crond/</guid>
+      <guid>http://blog.z-72.com/post/crond/</guid>
       <description>来自鸟哥的linux私房菜 以优先级来说， /etc/cron.allow 比 /etc/cron.deny 要优先 /etc/cron.allow： 将可以使用 crontab 的账号写入其中，若不在这个文件内的使用者则不</description>
     </item>
     

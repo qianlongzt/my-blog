@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wifi on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/wifi/</link>
+    <link>http://blog.z-72.com/tags/wifi/</link>
     <description>Recent content in Wifi on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 16 Mar 2016 23:32:52 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>电脑开wifi</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</link>
+      <link>http://blog.z-72.com/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</link>
       <pubDate>Wed, 16 Mar 2016 23:32:52 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</guid>
+      <guid>http://blog.z-72.com/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</guid>
       <description>来自 http://www.22zy.net/tech/2365.html netsh wlan set hostednetwork mode=allow ssid=Edwin key=1234asdf ssid为wifi热点名称，key为wifi热点密码（要大于8位） mode表明是否启用虚拟WiFi网卡，allow为启用</description>
     </item>
     

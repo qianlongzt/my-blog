@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>定界符 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E5%AE%9A%E7%95%8C%E7%AC%A6/</link>
+    <link>http://blog.z-72.com/tags/%E5%AE%9A%E7%95%8C%E7%AC%A6/</link>
     <description>Recent content in 定界符 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Mar 2016 17:03:42 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E5%AE%9A%E7%95%8C%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E5%AE%9A%E7%95%8C%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>php界定符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</link>
       <pubDate>Sun, 06 Mar 2016 17:03:42 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</guid>
       <description>我们可以使用Heredoc结构形式的方法来解决该问题，首先使用定界符表示字符串（&amp;lt;&amp;lt;&amp;lt;），接着在“&amp;lt;&amp;lt;&amp;lt;</description>
     </item>
     

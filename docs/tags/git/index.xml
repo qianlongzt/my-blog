@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/git/</link>
+    <link>http://blog.z-72.com/tags/git/</link>
     <description>Recent content in Git on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 01 Feb 2017 01:59:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[转]多个 SSH KEY 的管理</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</link>
+      <link>http://blog.z-72.com/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</link>
       <pubDate>Wed, 01 Feb 2017 01:59:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://blog.z-72.com/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</guid>
       <description>前言：多ssh-key模式 是开发时可能遇到的问题，新手在使用多 ssh key 模式时很容易不知所措。 情景：工作室有一台公用电脑，使用它的开发人员混杂，使</description>
     </item>
     

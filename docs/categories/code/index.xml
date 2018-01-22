@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/categories/code/</link>
+    <link>http://blog.z-72.com/categories/code/</link>
     <description>Recent content in Code on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 26 May 2017 21:26:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/categories/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/categories/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>记录一次假 LOL 网站</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</link>
+      <link>http://blog.z-72.com/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</link>
       <pubDate>Fri, 26 May 2017 21:26:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</guid>
+      <guid>http://blog.z-72.com/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</guid>
       <description>我首先看到，英雄联盟每日签到！免费皮肤等你来拿！http://url.cn/49c78Ep?kdegnqrtZJ&amp;amp;_xc=1 然后这个</description>
     </item>
     
     <item>
       <title>为博客添加ssl证书</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0ssl%E8%AF%81%E4%B9%A6/</link>
+      <link>http://blog.z-72.com/post/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0ssl%E8%AF%81%E4%B9%A6/</link>
       <pubDate>Tue, 20 Dec 2016 01:45:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0ssl%E8%AF%81%E4%B9%A6/</guid>
+      <guid>http://blog.z-72.com/post/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0ssl%E8%AF%81%E4%B9%A6/</guid>
       <description>首先 打开这个 https://certbot.eff.org/ 选择你的系统和web服务器程序，然后根据对应的方法就可以了。 国内的dns服务商可能会碰到 地址没有办法解析的问题。 dnspod 可以添加国外</description>
     </item>
     
     <item>
       <title>c&#43;&#43;继承，隐藏</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E7%BB%A7%E6%89%BF-%E9%9A%90%E8%97%8F/</link>
+      <link>http://blog.z-72.com/post/c%E7%BB%A7%E6%89%BF-%E9%9A%90%E8%97%8F/</link>
       <pubDate>Sun, 27 Mar 2016 22:30:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E7%BB%A7%E6%89%BF-%E9%9A%90%E8%97%8F/</guid>
+      <guid>http://blog.z-72.com/post/c%E7%BB%A7%E6%89%BF-%E9%9A%90%E8%97%8F/</guid>
       <description>&lt;p&gt;即使子类的函数有参数而父类的同名函数没有参数，这两个函数也是存在隐藏关系的，子类对象仍然只能调用子类这个成员函数，而不能调用父类继承来的那个同名 函数，若要调用，仍然要采用 子类对象.父类类名::同名函数 的方式调用父类继承来的那个掩藏函数。也就是说，隐藏函数之间无法形成重载，只能隐藏。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>c&#43;&#43;类的继承,继承方式</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
+      <link>http://blog.z-72.com/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Sun, 27 Mar 2016 22:00:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</guid>
+      <guid>http://blog.z-72.com/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</guid>
       <description>&lt;p&gt;来自&lt;a href=&#34;http://www.imooc.com/learn/426&#34;&gt;慕课网&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;实例化子类的时候会实例化父类
@@ -55,10 +55,10 @@
     
     <item>
       <title>php文件上传</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</link>
+      <link>http://blog.z-72.com/post/php%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</link>
       <pubDate>Thu, 24 Mar 2016 12:05:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</guid>
+      <guid>http://blog.z-72.com/post/php%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</guid>
       <description>&lt;p&gt;来源&lt;a href=&#34;http://www.imooc.com/learn/219&#34;&gt;慕课网&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;文件上传原理&#34;&gt;文件上传原理&lt;/h2&gt;
@@ -69,37 +69,37 @@
     
     <item>
       <title>php爬46级成绩</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</link>
+      <link>http://blog.z-72.com/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</link>
       <pubDate>Fri, 18 Mar 2016 19:51:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</guid>
       <description>&amp;lt;?php $data = &amp;quot;id=33037015210xxxx&amp;amp;name=&amp;quot; .urlencode(mb_convert_encoding(&amp;quot;xx&amp;quot;,&amp;quot;GBK&amp;quot;,&amp;quot;UTF-8&amp;quot;)); $curl = curl_init(&amp;quot;http://cet.99sushe.com/getscore&amp;quot;); curl_setopt($curl,CURLOPT_RETURNTRANSFER,1); curl_setopt($curl,CURLOPT_POST,1); curl_setopt($curl,CURLOPT_POSTFIELDS, $data); curl_setopt($curl,CURLOPT_HTTPHEADER,array( &amp;quot;Content-Type:application/x-www-form-urlencoded;charset=utf-8&amp;quot;, &amp;quot;Content-Length:&amp;quot;.strlen($data), &amp;quot;Host: cet.99sushe.com&amp;quot;, &amp;quot;Referer: http://cet.99sushe.com&amp;quot;, &amp;quot;Connection: keep-alive&amp;quot; )); $output = curl_exec($curl); $result = mb_convert_encoding($output, &amp;quot;UTF-8&amp;quot;, &amp;quot;GBK&amp;quot;); $arr = explode(&amp;quot;,&amp;quot;,$result) ; if((int)$arr[0] == 6){ echo &amp;quot;英语四级&amp;quot;; } else if((int)$arr[0] == 6) { echo &amp;quot;英语</description>
     </item>
     
     <item>
       <title>c&#43;&#43;常成员函数，常对象</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0-%E5%B8%B8%E5%AF%B9%E8%B1%A1/</link>
+      <link>http://blog.z-72.com/post/c%E5%B8%B8%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0-%E5%B8%B8%E5%AF%B9%E8%B1%A1/</link>
       <pubDate>Wed, 16 Mar 2016 16:11:46 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0-%E5%B8%B8%E5%AF%B9%E8%B1%A1/</guid>
+      <guid>http://blog.z-72.com/post/c%E5%B8%B8%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0-%E5%B8%B8%E5%AF%B9%E8%B1%A1/</guid>
       <description>c++中可以将对象，成员函数用const修饰为常对象，常成员函数 常对象就是它的值初始化后不能改变值，常成员函数就是这个函数只能读取对象的值，</description>
     </item>
     
     <item>
       <title>c&#43;&#43;对象this指针</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</link>
+      <link>http://blog.z-72.com/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</link>
       <pubDate>Wed, 16 Mar 2016 15:24:54 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</guid>
+      <guid>http://blog.z-72.com/post/c%E5%AF%B9%E8%B1%A1this%E6%8C%87%E9%92%88/</guid>
       <description>来自http://www.runoob.com/cplusplus/cpp-this-pointer.html和http://www.imo</description>
     </item>
     
     <item>
       <title>正则表达式</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
+      <link>http://blog.z-72.com/post/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
       <pubDate>Mon, 14 Mar 2016 01:29:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
+      <guid>http://blog.z-72.com/post/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
       <description>&lt;p&gt;来自慕课网的笔记整理&lt;a href=&#34;http://www.imooc.com/learn/350&#34;&gt;慕课网&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.wolfieonline.com&#34;&gt;在线正则表达式测试&lt;/a&gt;&lt;/p&gt;
@@ -135,343 +135,343 @@
     
     <item>
       <title>php正则表达式相关函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%87%BD%E6%95%B0/</link>
       <pubDate>Mon, 14 Mar 2016 00:10:54 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%87%BD%E6%95%B0/</guid>
       <description>preg_match($pattern, $subject,[array&amp;amp; $match]) 用$pattern去匹配$subject 如果有一个匹配就返回并停止匹配，并将匹配到的值写入$match 中 并返回匹配到的个数 preg_match_all($pattern, $subject, $matches) 用$p</description>
     </item>
     
     <item>
       <title>PHP 类与对象</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php-%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</link>
+      <link>http://blog.z-72.com/post/php-%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</link>
       <pubDate>Sun, 13 Mar 2016 00:21:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php-%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</guid>
+      <guid>http://blog.z-72.com/post/php-%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/</guid>
       <description>PHP类与对象</description>
     </item>
     
     <item>
       <title>C&#43;&#43; 类 &amp;amp; 对象</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</link>
+      <link>http://blog.z-72.com/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</link>
       <pubDate>Sat, 12 Mar 2016 23:32:55 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</guid>
+      <guid>http://blog.z-72.com/post/c-%E7%B1%BB-%E5%AF%B9%E8%B1%A1/</guid>
       <description>来源http://www.runoob.com/cplusplus/cpp-classes-objects.html 类用于指定对象的形式，它</description>
     </item>
     
     <item>
       <title>smarty插件</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E6%8F%92%E4%BB%B6/</link>
+      <link>http://blog.z-72.com/post/smarty%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Fri, 11 Mar 2016 21:31:31 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E6%8F%92%E4%BB%B6/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E6%8F%92%E4%BB%B6/</guid>
       <description>smarty插件本质上是function 函数 Smarty 插件常用类型 functions 函数插件 modifiers 修饰插件 block functions 区块函数插件 制作，使用插件 使用registerPlugin</description>
     </item>
     
     <item>
       <title>smarty 使用函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</link>
       <pubDate>Fri, 11 Mar 2016 16:30:52 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/smarty-%E4%BD%BF%E7%94%A8%E5%87%BD%E6%95%B0/</guid>
       <description>使用php函数 {函数的第一个参数| php内置函数名[:第n个参数]|} 这样子使用函数，函数必须要有一个参数 date函数 {&amp;lsquo;Y-m-d&amp;rsquo;| date: $time} str_repl</description>
     </item>
     
     <item>
       <title>Smarty类和对象赋值与使用</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E8%B5%8B%E5%80%BC%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <link>http://blog.z-72.com/post/smarty%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E8%B5%8B%E5%80%BC%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Fri, 11 Mar 2016 13:08:48 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E8%B5%8B%E5%80%BC%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E8%B5%8B%E5%80%BC%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
       <description>smarty可以将对象传递到模板，然后在模板像php那样使用 class my_object{ function meth1($param){ return $param[0].&amp;lsquo;已经&amp;rsquo;.$param[1</description>
     </item>
     
     <item>
       <title>smarty 模板的引入函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</link>
       <pubDate>Fri, 11 Mar 2016 13:01:16 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/smarty-%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%BC%95%E5%85%A5%E5%87%BD%E6%95%B0/</guid>
       <description>include file 要包含的模板文件 ，其他可以随便定义的属性， 会当作变量传给模板使用（只能在模板中使用） {include file=&amp;ldquo;要包含的文件&amp;rdquo;</description>
     </item>
     
     <item>
       <title>smarty循环</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E5%BE%AA%E7%8E%AF/</link>
+      <link>http://blog.z-72.com/post/smarty%E5%BE%AA%E7%8E%AF/</link>
       <pubDate>Thu, 10 Mar 2016 23:29:46 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E5%BE%AA%E7%8E%AF/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E5%BE%AA%E7%8E%AF/</guid>
       <description>&amp;lt;section name=[循环变量] loop=[遍历的变量]&amp;gt; {$[遍历的变量][循环变量].title} {$[遍历的变量][循环变量].auth</description>
     </item>
     
     <item>
       <title>smarty条件判断</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/</link>
+      <link>http://blog.z-72.com/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/</link>
       <pubDate>Thu, 10 Mar 2016 23:13:52 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD/</guid>
       <description>基本句式 {if $name eq &amp;ldquo;Fred&amp;rdquo;} Fred {elseif $name eq &amp;ldquo;Wilama&amp;rdquo;} Wilama {else} else {/if} 条件修饰符有很多，请记得简单的几个eq ( == ) neq ( !eq ) gt ( &amp;gt; ) lt (&amp;lt; ) 修饰符必须和变量或常量用空格分开</description>
     </item>
     
     <item>
       <title>smarty变量调节器</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/</link>
+      <link>http://blog.z-72.com/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/</link>
       <pubDate>Thu, 10 Mar 2016 23:01:18 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E5%8F%98%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8/</guid>
       <description>首字母大写captitalie {$articleTitle|captitalize} 字符串连接 cat {$articleTitle|cat: &#34; yesterday.&#34;} 日期格式化 date_format {$date|date_format} //月，日，年 {$date | date_format : &#34; %A, %B %e, %Y %H:%M:%S&#34;} 为未赋值或为空的变量指定默认值defaul</description>
     </item>
     
     <item>
       <title>smarty简单配置</title>
-      <link>https://qianlongzt.github.io/my-blog/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/</link>
+      <link>http://blog.z-72.com/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Thu, 10 Mar 2016 22:49:13 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/</guid>
+      <guid>http://blog.z-72.com/post/smarty%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE/</guid>
       <description>require_once(&amp;lsquo;smarty/Smarty.class.php&amp;rsquo;); //引入smarty类 $smarty = new Smarty();//实例化 smarty类 $smarty -&amp;gt; left_delimiter = &amp;ldquo;{&amp;rdquo;; //定义左定界符 $smarty -&amp;gt; right_delimiter = &amp;ldquo;}&amp;rdquo;;/</description>
     </item>
     
     <item>
       <title>环境变量配置文件</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
+      <link>http://blog.z-72.com/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
       <pubDate>Tue, 08 Mar 2016 01:40:24 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
+      <guid>http://blog.z-72.com/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
       <description>source 配置文件 重新加载这个配置文件 . 这个点是source的缩写 source 配置文件 = . 配置文件 放在/etc下的配置文件是对所有用户生效的，放环境变量文件：</description>
     </item>
     
     <item>
       <title>shell变量声明为非字符串类型</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</link>
+      <link>http://blog.z-72.com/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</link>
       <pubDate>Tue, 08 Mar 2016 00:54:30 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</guid>
+      <guid>http://blog.z-72.com/post/shell%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E4%B8%BA%E9%9D%9E%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B/</guid>
       <description>变量声明类型 declare [+/-] [选项] [变量名] - 给变量设定类型属性 + 取消变量的类型属性 -a 将变量声明为数组型 1、数组的声明（后面用方括号）：可以直接后面用</description>
     </item>
     
     <item>
       <title>Shell字符串</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+      <link>http://blog.z-72.com/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
       <pubDate>Tue, 08 Mar 2016 00:35:38 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
+      <guid>http://blog.z-72.com/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
       <description>来自http://www.imooc.com/wiki/detail/id/786 字符串是shell编程中最常用最有用的数据类型（除了数字和</description>
     </item>
     
     <item>
       <title>Shell注释</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E6%B3%A8%E9%87%8A/</link>
+      <link>http://blog.z-72.com/post/shell%E6%B3%A8%E9%87%8A/</link>
       <pubDate>Tue, 08 Mar 2016 00:24:39 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E6%B3%A8%E9%87%8A/</guid>
+      <guid>http://blog.z-72.com/post/shell%E6%B3%A8%E9%87%8A/</guid>
       <description>来自http://www.imooc.com/wiki/detail/id/783 以“#”开头的行就是注释，会被解释器忽略。 sh里没有多行注</description>
     </item>
     
     <item>
       <title>Shell运算符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
       <pubDate>Tue, 08 Mar 2016 00:21:10 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
       <description>Bash 支持很多运算符 : 算数运算符 关系运算符 布尔运算符 字符串运算符 文件测试运算符 原生bash不支持简单的数学运算，但是可以通过其他命令来实现，例如</description>
     </item>
     
     <item>
       <title>Shell变量替换，命令替换，转义字符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</link>
       <pubDate>Mon, 07 Mar 2016 23:49:07 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</guid>
       <description>来源http://www.imooc.com/wiki/detail/id/777和http://www.jb51.net/article/</description>
     </item>
     
     <item>
       <title>bash变量</title>
-      <link>https://qianlongzt.github.io/my-blog/post/bash%E5%8F%98%E9%87%8F/</link>
+      <link>http://blog.z-72.com/post/bash%E5%8F%98%E9%87%8F/</link>
       <pubDate>Mon, 07 Mar 2016 23:17:17 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/bash%E5%8F%98%E9%87%8F/</guid>
+      <guid>http://blog.z-72.com/post/bash%E5%8F%98%E9%87%8F/</guid>
       <description>来源http://www.imooc.com/video/6511和http://blog.sina.com.cn/s/blog_6268d</description>
     </item>
     
     <item>
       <title>第一个Shell脚本</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</link>
+      <link>http://blog.z-72.com/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</link>
       <pubDate>Mon, 07 Mar 2016 20:59:14 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</guid>
+      <guid>http://blog.z-72.com/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</guid>
       <description>来源http://www.imooc.com/wiki/detail/id/768 打开文本编辑器，新建一个文件，扩展名为sh（sh代表she</description>
     </item>
     
     <item>
       <title>php界定符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</link>
       <pubDate>Sun, 06 Mar 2016 17:03:42 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%95%8C%E5%AE%9A%E7%AC%A6/</guid>
       <description>我们可以使用Heredoc结构形式的方法来解决该问题，首先使用定界符表示字符串（&amp;lt;&amp;lt;&amp;lt;），接着在“&amp;lt;&amp;lt;&amp;lt;</description>
     </item>
     
     <item>
       <title>php用constant常量的不同输出</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</link>
+      <link>http://blog.z-72.com/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</link>
       <pubDate>Sun, 06 Mar 2016 17:02:17 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</guid>
       <description>第二种是使用constant()函数。它和直接使用常量名输出的效果是一样的，但函数可以动态的输出不同的常量，在使用上要灵活、方便，其语法格式</description>
     </item>
     
     <item>
       <title>PHP中的赋值运算符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
       <pubDate>Sun, 06 Mar 2016 17:00:37 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/php%E4%B8%AD%E7%9A%84%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
       <description>PHP的赋值运算符有两种，分别是： (1)“=”：把右边表达式的值赋给左边的运算数。它将右边表达式值复制一份，交给左边的运算数。换而言之，首先</description>
     </item>
     
     <item>
       <title>php中取中文字符串处理</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E5%8F%96%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/</link>
+      <link>http://blog.z-72.com/post/php%E4%B8%AD%E5%8F%96%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/</link>
       <pubDate>Sun, 06 Mar 2016 16:59:37 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E4%B8%AD%E5%8F%96%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/</guid>
+      <guid>http://blog.z-72.com/post/php%E4%B8%AD%E5%8F%96%E4%B8%AD%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/</guid>
       <description>php中有非常多的字符串处理函数，其中就有字符串截取函数。 1、英文字符串的截取函数substr() 函数说明：substr(字符串变量,开始截</description>
     </item>
     
     <item>
       <title>字符串的合并与分割</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%90%88%E5%B9%B6%E4%B8%8E%E5%88%86%E5%89%B2/</link>
+      <link>http://blog.z-72.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%90%88%E5%B9%B6%E4%B8%8E%E5%88%86%E5%89%B2/</link>
       <pubDate>Sun, 06 Mar 2016 16:59:10 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%90%88%E5%B9%B6%E4%B8%8E%E5%88%86%E5%89%B2/</guid>
+      <guid>http://blog.z-72.com/post/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%90%88%E5%B9%B6%E4%B8%8E%E5%88%86%E5%89%B2/</guid>
       <description>1、php字符串合并函数implode() 函数说明：implode(分隔符[可选], 数组) 返回值：把数组元素组合为一个字符串 例子： $arr = array(&#39;Hello&#39;, &#39;World!&#39;); $result</description>
     </item>
     
     <item>
       <title>php字符串的转义</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</link>
+      <link>http://blog.z-72.com/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</link>
       <pubDate>Sun, 06 Mar 2016 16:58:24 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</guid>
+      <guid>http://blog.z-72.com/post/php%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E8%BD%AC%E4%B9%89/</guid>
       <description>php字符串转义函数addslashes() 函数说明：用于对特殊字符加上转义字符，返回一个字符串 返回值：一个经过转义后的字符串 例子： $str = &#34;what&#39;s your</description>
     </item>
     
     <item>
       <title>php正则表达式的搜索和替换</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E6%90%9C%E7%B4%A2%E5%92%8C%E6%9B%BF%E6%8D%A2/</link>
+      <link>http://blog.z-72.com/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E6%90%9C%E7%B4%A2%E5%92%8C%E6%9B%BF%E6%8D%A2/</link>
       <pubDate>Sun, 06 Mar 2016 16:57:35 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E6%90%9C%E7%B4%A2%E5%92%8C%E6%9B%BF%E6%8D%A2/</guid>
+      <guid>http://blog.z-72.com/post/php%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E6%90%9C%E7%B4%A2%E5%92%8C%E6%9B%BF%E6%8D%A2/</guid>
       <description>1、str_replace(‘js’,’php’,$str) 替换字符串 2、$result = sprintf(‘%01.2f’,$str) 格式化</description>
     </item>
     
     <item>
       <title>删除与销毁session</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E5%88%A0%E9%99%A4%E4%B8%8E%E9%94%80%E6%AF%81session/</link>
+      <link>http://blog.z-72.com/post/%E5%88%A0%E9%99%A4%E4%B8%8E%E9%94%80%E6%AF%81session/</link>
       <pubDate>Sun, 06 Mar 2016 16:56:43 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E5%88%A0%E9%99%A4%E4%B8%8E%E9%94%80%E6%AF%81session/</guid>
+      <guid>http://blog.z-72.com/post/%E5%88%A0%E9%99%A4%E4%B8%8E%E9%94%80%E6%AF%81session/</guid>
       <description>删除某个session值可以使用PHP的unset函数，删除后就会从全局变量$_SESSION中去除，无法访问。 session_start(); $_SESSION[&#39;name&#39;] = &#39;jobs&#39;; unset($_SESSION[&#39;name&#39;]); echo $_SESSION[&#39;name&#39;]; //提示nam</description>
     </item>
     
     <item>
       <title>strtotime</title>
-      <link>https://qianlongzt.github.io/my-blog/post/strtotime/</link>
+      <link>http://blog.z-72.com/post/strtotime/</link>
       <pubDate>Sun, 06 Mar 2016 16:56:18 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/strtotime/</guid>
+      <guid>http://blog.z-72.com/post/strtotime/</guid>
       <description>将格式化的日期字符串转换为Unix时间戳，格式化格林威治（GMT）标准时间 strtotime函数预期接受一个包含美国英语日期格式的字符串并尝</description>
     </item>
     
     <item>
       <title>php，gd库</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php-gd%E5%BA%93/</link>
+      <link>http://blog.z-72.com/post/php-gd%E5%BA%93/</link>
       <pubDate>Sun, 06 Mar 2016 16:54:37 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php-gd%E5%BA%93/</guid>
+      <guid>http://blog.z-72.com/post/php-gd%E5%BA%93/</guid>
       <description>要对图形进行操作，首先要新建一个画布，通过imagecreatetruecolor函数可以创建一个真彩色的空白图片： $img = imagecreatetruecolor(100, 100); GD库中对于画笔</description>
     </item>
     
     <item>
       <title>php检查是否支持某个拓展</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E6%9F%90%E4%B8%AA%E6%8B%93%E5%B1%95/</link>
+      <link>http://blog.z-72.com/post/php%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E6%9F%90%E4%B8%AA%E6%8B%93%E5%B1%95/</link>
       <pubDate>Sun, 06 Mar 2016 16:54:10 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E6%9F%90%E4%B8%AA%E6%8B%93%E5%B1%95/</guid>
+      <guid>http://blog.z-72.com/post/php%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E6%9F%90%E4%B8%AA%E6%8B%93%E5%B1%95/</guid>
       <description>&amp;lt;?php if(function_exists(&#39;mysql_connect&#39;)){ echo &#34;MySQL扩展已经安装&#34;; }</description>
     </item>
     
     <item>
       <title>php，数据库的操作</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/</link>
+      <link>http://blog.z-72.com/post/php-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/</link>
       <pubDate>Sun, 06 Mar 2016 16:53:36 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/</guid>
+      <guid>http://blog.z-72.com/post/php-%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/</guid>
       <description>PHP中一个数据库可能有一个或者多个扩展，其中既有官方的，也有第三方提供的。像Mysql常用的扩展有原生的mysql库，也可以使用增强版的m</description>
     </item>
     
     <item>
       <title>php类</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%B1%BB/</link>
+      <link>http://blog.z-72.com/post/php%E7%B1%BB/</link>
       <pubDate>Sun, 06 Mar 2016 16:52:35 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%B1%BB/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%B1%BB/</guid>
       <description>在类中定义的变量称之为属性，通常属性跟数据库中的字段有一定的关联，因此也可以称作“字段”。属性声明是由关键字 public，protected</description>
     </item>
     
     <item>
       <title>c语言计算结构体大小</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</link>
+      <link>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</link>
       <pubDate>Sun, 06 Mar 2016 16:51:12 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</guid>
+      <guid>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%84%E4%BD%93%E5%A4%A7%E5%B0%8F/</guid>
       <description>来源于知乎：https://www.zhihu.com/question/28958350 和 百度 http://zhidao.baidu.com/link?url=9C9BY8tjt11WX5M3nqcSg1Yxt2ljxRlUqAFVS-DnuXoJwmWjpPHt9WEe9a8eueN2uMoz4RSElZn5kj_1oG-NMq 在缺省对齐下我先给你说下三条准则吧， 【1】</description>
     </item>
     
     <item>
       <title>json</title>
-      <link>https://qianlongzt.github.io/my-blog/post/json/</link>
+      <link>http://blog.z-72.com/post/json/</link>
       <pubDate>Sun, 06 Mar 2016 16:51:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/json/</guid>
+      <guid>http://blog.z-72.com/post/json/</guid>
       <description>分清字符集与字符编码的区别 ，json是只能用于unicode字符编码，而不是字符集 $jsonStr={“key”:”value”,”key1</description>
     </item>
     
     <item>
       <title>c指针</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E6%8C%87%E9%92%88/</link>
+      <link>http://blog.z-72.com/post/c%E6%8C%87%E9%92%88/</link>
       <pubDate>Sun, 06 Mar 2016 16:45:07 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E6%8C%87%E9%92%88/</guid>
+      <guid>http://blog.z-72.com/post/c%E6%8C%87%E9%92%88/</guid>
       <description>scanf函数还是要地址，不要弄混了 scanf(&amp;ldquo;%d&amp;rdquo;,(p+i)+j);//错误的是(*(p+i)+j) 指向指针</description>
     </item>
     
     <item>
       <title>c常用字符串函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</link>
       <pubDate>Sun, 06 Mar 2016 16:44:25 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</guid>
       <description>要用string.h头 char *strcpy(char *s1,char *s2) s1必须是字符数组名或者指向字符数组元素的指针，s2是字符串（即字符数组名，字符串指针，字符串常量）。 功能：字</description>
     </item>
     
     <item>
       <title>c语言main函数的参数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80main%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80main%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0/</link>
       <pubDate>Sun, 06 Mar 2016 16:42:33 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80main%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80main%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0/</guid>
       <description>int main(int argc,char *argv[]) 第一个形参argc存放程序执行时的参数格式，至少是一个（这个参数就是该程序的可执行文件名），第二个形参argv为指针数组，存放指向实</description>
     </item>
     
     <item>
       <title>c语言指向函数的指针,返回指针的函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</link>
       <pubDate>Sun, 06 Mar 2016 16:41:03 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/c%E8%AF%AD%E8%A8%80%E6%8C%87%E5%90%91%E5%87%BD%E6%95%B0%E7%9A%84%E6%8C%87%E9%92%88%E8%BF%94%E5%9B%9E%E6%8C%87%E9%92%88%E7%9A%84%E5%87%BD%E6%95%B0/</guid>
       <description>函数指针一般定义： 类型标识符 （*变量名）（形参类型列表） 如 char (*f1) (float); int （*f2）（int,float); double(*f)(double)； double(*q)(double,dobule);</description>
     </item>
     

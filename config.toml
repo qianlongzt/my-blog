@@ -1,4 +1,4 @@
-baseURL = "https://qianlongzt.github.io/my-blog/"
+baseURL = "http://blog.z-72.com/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 title = "潜龙在天的博客"
@@ -8,7 +8,7 @@ theme = "even"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3                                              # 首页每页显示的文章数
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "z72"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
@@ -54,12 +54,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2014"            # Site creation time          # 站点建立时间
+  since = "2015"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "潜龙在天"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","even", "qianlongzt"]
-  description = "潜龙在天的博客"
+  logoTitle = "知其二"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "theme","even", "知其二"]
+  description = ""
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archive-paginate = 50

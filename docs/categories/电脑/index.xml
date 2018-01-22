@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电脑 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/categories/%E7%94%B5%E8%84%91/</link>
+    <link>http://blog.z-72.com/categories/%E7%94%B5%E8%84%91/</link>
     <description>Recent content in 电脑 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 26 May 2017 21:26:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/categories/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/categories/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>记录一次假 LOL 网站</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</link>
+      <link>http://blog.z-72.com/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</link>
       <pubDate>Fri, 26 May 2017 21:26:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</guid>
+      <guid>http://blog.z-72.com/post/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%81%87-lol-%E7%BD%91%E7%AB%99/</guid>
       <description>我首先看到，英雄联盟每日签到！免费皮肤等你来拿！http://url.cn/49c78Ep?kdegnqrtZJ&amp;amp;_xc=1 然后这个</description>
     </item>
     
     <item>
       <title>[转]多个 SSH KEY 的管理</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</link>
+      <link>http://blog.z-72.com/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</link>
       <pubDate>Wed, 01 Feb 2017 01:59:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://blog.z-72.com/post/%E8%BD%AC%E5%A4%9A%E4%B8%AA-ssh-key-%E7%9A%84%E7%AE%A1%E7%90%86/</guid>
       <description>前言：多ssh-key模式 是开发时可能遇到的问题，新手在使用多 ssh key 模式时很容易不知所措。 情景：工作室有一台公用电脑，使用它的开发人员混杂，使</description>
     </item>
     
     <item>
       <title>[转载]解决 Windows 、 Mac 和 Ubuntu 时间不一致的问题</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E8%BD%BD%E8%A7%A3%E5%86%B3-windows--mac-%E5%92%8C-ubuntu-%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <link>http://blog.z-72.com/post/%E8%BD%AC%E8%BD%BD%E8%A7%A3%E5%86%B3-windows--mac-%E5%92%8C-ubuntu-%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</link>
       <pubDate>Tue, 31 Jan 2017 17:48:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E8%BD%AC%E8%BD%BD%E8%A7%A3%E5%86%B3-windows--mac-%E5%92%8C-ubuntu-%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <guid>http://blog.z-72.com/post/%E8%BD%AC%E8%BD%BD%E8%A7%A3%E5%86%B3-windows--mac-%E5%92%8C-ubuntu-%E6%97%B6%E9%97%B4%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
       <description>最近帮朋友装了 Windows 7 、 Mac 还有 Ubuntu 。朋友在切换操作系统的时候就发现了一个问题， Windows 、 Mac 和 Ubuntu 的时间出现了不一致的情况。在 Windows 中把时间设置正确了过后，在 Ubuntu</description>
     </item>
     
     <item>
       <title>删除文件时提示“找不到该项目”，怎么解决?</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%97%B6%E6%8F%90%E7%A4%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E8%AF%A5%E9%A1%B9%E7%9B%AE-%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</link>
+      <link>http://blog.z-72.com/post/%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%97%B6%E6%8F%90%E7%A4%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E8%AF%A5%E9%A1%B9%E7%9B%AE-%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</link>
       <pubDate>Sun, 20 Mar 2016 14:24:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%97%B6%E6%8F%90%E7%A4%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E8%AF%A5%E9%A1%B9%E7%9B%AE-%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</guid>
+      <guid>http://blog.z-72.com/post/%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6%E6%97%B6%E6%8F%90%E7%A4%BA%E6%89%BE%E4%B8%8D%E5%88%B0%E8%AF%A5%E9%A1%B9%E7%9B%AE-%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3/</guid>
       <description>&lt;p&gt;来自&lt;a href=&#34;http://jingyan.baidu.com/article/e4d08ffdf5ab470fd2f60df4.html&#34;&gt;百度经验&lt;/a&gt; 和&lt;a href=&#34;http://zhidao.baidu.com/link?url=ha5Y3ol5QJjW0pDaLhQAkz6B8-CT51dpPSeSi5tcPpQYkQ9ZYS6wW7vldj75AjJ2FOdSLgEUWYcadnml483T-K&#34;&gt;百度知道&lt;/a&gt;和&lt;a href=&#34;http://wenku.baidu.com/link?url=Mm0cdarzTXUqEvA62zEw4b2eTkvfdd-BbqO9Geb3I9Ukp7W7_AH0WcWl7t6H9EW4n8xwdWqgprbcRGIes9cojpfAdedrWr4zFykn05BjbAe&#34;&gt;百度文库&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;故障现象&lt;/strong&gt;在使用Windows系统删除文件或者文件夹的时候，有时会出现“找不到该项目”的错误提示，可能再次“重试”也无济于事。&lt;/p&gt;
@@ -65,91 +65,91 @@
     
     <item>
       <title>电脑开wifi</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</link>
+      <link>http://blog.z-72.com/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</link>
       <pubDate>Wed, 16 Mar 2016 23:32:52 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</guid>
+      <guid>http://blog.z-72.com/post/%E7%94%B5%E8%84%91%E5%BC%80wifi/</guid>
       <description>来自 http://www.22zy.net/tech/2365.html netsh wlan set hostednetwork mode=allow ssid=Edwin key=1234asdf ssid为wifi热点名称，key为wifi热点密码（要大于8位） mode表明是否启用虚拟WiFi网卡，allow为启用</description>
     </item>
     
     <item>
       <title>环境变量配置文件</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
+      <link>http://blog.z-72.com/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</link>
       <pubDate>Tue, 08 Mar 2016 01:40:24 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
+      <guid>http://blog.z-72.com/post/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</guid>
       <description>source 配置文件 重新加载这个配置文件 . 这个点是source的缩写 source 配置文件 = . 配置文件 放在/etc下的配置文件是对所有用户生效的，放环境变量文件：</description>
     </item>
     
     <item>
       <title>Shell注释</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E6%B3%A8%E9%87%8A/</link>
+      <link>http://blog.z-72.com/post/shell%E6%B3%A8%E9%87%8A/</link>
       <pubDate>Tue, 08 Mar 2016 00:24:39 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E6%B3%A8%E9%87%8A/</guid>
+      <guid>http://blog.z-72.com/post/shell%E6%B3%A8%E9%87%8A/</guid>
       <description>来自http://www.imooc.com/wiki/detail/id/783 以“#”开头的行就是注释，会被解释器忽略。 sh里没有多行注</description>
     </item>
     
     <item>
       <title>Shell运算符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
       <pubDate>Tue, 08 Mar 2016 00:21:10 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
       <description>Bash 支持很多运算符 : 算数运算符 关系运算符 布尔运算符 字符串运算符 文件测试运算符 原生bash不支持简单的数学运算，但是可以通过其他命令来实现，例如</description>
     </item>
     
     <item>
       <title>Shell变量替换，命令替换，转义字符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</link>
       <pubDate>Mon, 07 Mar 2016 23:49:07 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/shell%E6%9B%BF%E6%8D%A2-shell%E5%8F%98%E9%87%8F%E6%9B%BF%E6%8D%A2-%E5%91%BD%E4%BB%A4%E6%9B%BF%E6%8D%A2-%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/</guid>
       <description>来源http://www.imooc.com/wiki/detail/id/777和http://www.jb51.net/article/</description>
     </item>
     
     <item>
       <title>bash变量</title>
-      <link>https://qianlongzt.github.io/my-blog/post/bash%E5%8F%98%E9%87%8F/</link>
+      <link>http://blog.z-72.com/post/bash%E5%8F%98%E9%87%8F/</link>
       <pubDate>Mon, 07 Mar 2016 23:17:17 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/bash%E5%8F%98%E9%87%8F/</guid>
+      <guid>http://blog.z-72.com/post/bash%E5%8F%98%E9%87%8F/</guid>
       <description>来源http://www.imooc.com/video/6511和http://blog.sina.com.cn/s/blog_6268d</description>
     </item>
     
     <item>
       <title>第一个Shell脚本</title>
-      <link>https://qianlongzt.github.io/my-blog/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</link>
+      <link>http://blog.z-72.com/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</link>
       <pubDate>Mon, 07 Mar 2016 20:59:14 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</guid>
+      <guid>http://blog.z-72.com/post/%E7%AC%AC%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC/</guid>
       <description>来源http://www.imooc.com/wiki/detail/id/768 打开文本编辑器，新建一个文件，扩展名为sh（sh代表she</description>
     </item>
     
     <item>
       <title>make 帮助编译</title>
-      <link>https://qianlongzt.github.io/my-blog/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</link>
+      <link>http://blog.z-72.com/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</link>
       <pubDate>Sun, 06 Mar 2016 16:49:17 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</guid>
+      <guid>http://blog.z-72.com/post/make-%E5%B8%AE%E5%8A%A9%E7%BC%96%E8%AF%91/</guid>
       <description>#this is a make file hello.out:max.o min.o main.c gcc max.o min.o main.c -o hello.out max.o:max.c gcc -c max.c min.o:min.c gcc -c min.c Make在linux和unix中非常重要； Make工具可以将大型的的开发项目分成若干个模块； Ma</description>
     </item>
     
     <item>
       <title>Linux软件安装管理</title>
-      <link>https://qianlongzt.github.io/my-blog/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</link>
+      <link>http://blog.z-72.com/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sun, 06 Mar 2016 16:25:31 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://blog.z-72.com/post/linux%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E7%AE%A1%E7%90%86/</guid>
       <description>来源： Linux软件安装管理_学习笔记_慕课网 源码包： 开源，可以修改源代码的。软件是编译安装，所以更加适合自己的系统，更加稳定且效率更高。卸</description>
     </item>
     
     <item>
       <title>crond</title>
-      <link>https://qianlongzt.github.io/my-blog/post/crond/</link>
+      <link>http://blog.z-72.com/post/crond/</link>
       <pubDate>Sat, 05 Mar 2016 22:47:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/crond/</guid>
+      <guid>http://blog.z-72.com/post/crond/</guid>
       <description>来自鸟哥的linux私房菜 以优先级来说， /etc/cron.allow 比 /etc/cron.deny 要优先 /etc/cron.allow： 将可以使用 crontab 的账号写入其中，若不在这个文件内的使用者则不</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curl on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/curl/</link>
+    <link>http://blog.z-72.com/tags/curl/</link>
     <description>Recent content in Curl on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 18 Mar 2016 19:51:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/curl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/curl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>php爬46级成绩</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</link>
+      <link>http://blog.z-72.com/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</link>
       <pubDate>Fri, 18 Mar 2016 19:51:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%88%AC46%E7%BA%A7%E6%88%90%E7%BB%A9/</guid>
       <description>&amp;lt;?php $data = &amp;quot;id=33037015210xxxx&amp;amp;name=&amp;quot; .urlencode(mb_convert_encoding(&amp;quot;xx&amp;quot;,&amp;quot;GBK&amp;quot;,&amp;quot;UTF-8&amp;quot;)); $curl = curl_init(&amp;quot;http://cet.99sushe.com/getscore&amp;quot;); curl_setopt($curl,CURLOPT_RETURNTRANSFER,1); curl_setopt($curl,CURLOPT_POST,1); curl_setopt($curl,CURLOPT_POSTFIELDS, $data); curl_setopt($curl,CURLOPT_HTTPHEADER,array( &amp;quot;Content-Type:application/x-www-form-urlencoded;charset=utf-8&amp;quot;, &amp;quot;Content-Length:&amp;quot;.strlen($data), &amp;quot;Host: cet.99sushe.com&amp;quot;, &amp;quot;Referer: http://cet.99sushe.com&amp;quot;, &amp;quot;Connection: keep-alive&amp;quot; )); $output = curl_exec($curl); $result = mb_convert_encoding($output, &amp;quot;UTF-8&amp;quot;, &amp;quot;GBK&amp;quot;); $arr = explode(&amp;quot;,&amp;quot;,$result) ; if((int)$arr[0] == 6){ echo &amp;quot;英语四级&amp;quot;; } else if((int)$arr[0] == 6) { echo &amp;quot;英语</description>
     </item>
     

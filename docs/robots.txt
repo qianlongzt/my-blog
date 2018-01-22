@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://qianlongzt.github.io/my-blog/sitemap.xml
+Sitemap: http://blog.z-72.com/sitemap.xml

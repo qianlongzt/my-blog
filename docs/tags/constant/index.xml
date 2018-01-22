@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constant on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/constant/</link>
+    <link>http://blog.z-72.com/tags/constant/</link>
     <description>Recent content in Constant on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Mar 2016 17:02:17 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/constant/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/constant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>php用constant常量的不同输出</title>
-      <link>https://qianlongzt.github.io/my-blog/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</link>
+      <link>http://blog.z-72.com/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</link>
       <pubDate>Sun, 06 Mar 2016 17:02:17 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</guid>
+      <guid>http://blog.z-72.com/post/php%E7%94%A8constant%E5%B8%B8%E9%87%8F%E7%9A%84%E4%B8%8D%E5%90%8C%E8%BE%93%E5%87%BA/</guid>
       <description>第二种是使用constant()函数。它和直接使用常量名输出的效果是一样的，但函数可以动态的输出不同的常量，在使用上要灵活、方便，其语法格式</description>
     </item>
     

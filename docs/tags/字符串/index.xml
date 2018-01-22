@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>字符串 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+    <link>http://blog.z-72.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
     <description>Recent content in 字符串 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 08 Mar 2016 00:35:38 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shell字符串</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+      <link>http://blog.z-72.com/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
       <pubDate>Tue, 08 Mar 2016 00:35:38 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
+      <guid>http://blog.z-72.com/post/shell%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
       <description>来自http://www.imooc.com/wiki/detail/id/786 字符串是shell编程中最常用最有用的数据类型（除了数字和</description>
     </item>
     
     <item>
       <title>c常用字符串函数</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</link>
+      <link>http://blog.z-72.com/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</link>
       <pubDate>Sun, 06 Mar 2016 16:44:25 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</guid>
+      <guid>http://blog.z-72.com/post/c%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0/</guid>
       <description>要用string.h头 char *strcpy(char *s1,char *s2) s1必须是字符数组名或者指向字符数组元素的指针，s2是字符串（即字符数组名，字符串指针，字符串常量）。 功能：字</description>
     </item>
     

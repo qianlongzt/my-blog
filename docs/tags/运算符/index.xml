@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>运算符 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+    <link>http://blog.z-72.com/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
     <description>Recent content in 运算符 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 08 Mar 2016 00:21:10 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shell运算符</title>
-      <link>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
+      <link>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</link>
       <pubDate>Tue, 08 Mar 2016 00:21:10 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
+      <guid>http://blog.z-72.com/post/shell%E8%BF%90%E7%AE%97%E7%AC%A6/</guid>
       <description>Bash 支持很多运算符 : 算数运算符 关系运算符 布尔运算符 字符串运算符 文件测试运算符 原生bash不支持简单的数学运算，但是可以通过其他命令来实现，例如</description>
     </item>
     

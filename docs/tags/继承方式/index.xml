@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>继承方式 on 潜龙在天的博客</title>
-    <link>https://qianlongzt.github.io/my-blog/tags/%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
+    <link>http://blog.z-72.com/tags/%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
     <description>Recent content in 继承方式 on 潜龙在天的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Mar 2016 22:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://qianlongzt.github.io/my-blog/tags/%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.z-72.com/tags/%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>c&#43;&#43;类的继承,继承方式</title>
-      <link>https://qianlongzt.github.io/my-blog/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
+      <link>http://blog.z-72.com/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Sun, 27 Mar 2016 22:00:00 +0000</pubDate>
       
-      <guid>https://qianlongzt.github.io/my-blog/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</guid>
+      <guid>http://blog.z-72.com/post/c%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/</guid>
       <description>&lt;p&gt;来自&lt;a href=&#34;http://www.imooc.com/learn/426&#34;&gt;慕课网&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;实例化子类的时候会实例化父类
