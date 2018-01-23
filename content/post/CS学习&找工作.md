@@ -1,5 +1,5 @@
 +++
-title= "CS学习&amp;找工作"
+title= "CS学习&找工作"
 categories= ["成长"]
 tags= ["cs","学习","工作"]
 date= "2016-11-01 08:53:00"
