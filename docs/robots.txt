@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://blog.z-72.com/sitemap.xml
