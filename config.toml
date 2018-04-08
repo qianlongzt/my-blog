@@ -60,9 +60,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme", "even", "潜龙在天"]
   description = ""
+  version = "3.x"  # Used to give a friendly message when you have an incompatible update
 
+  # add
+  postMetaInFooter = true
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archive-paginate = 50
+  archivePaginate = 50
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02 03:04"
@@ -102,6 +105,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     i-zhihu = "https://www.zhihu.com/people/qianlongzt/"
     t-twitter = "https://twitter.com/qianlongzt"
 
+  [params.sequenceDiagrams]
+    enable = true
+    options = "{theme: 'simple'}"
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
