@@ -5,13 +5,12 @@ name: default
 platform:
   os: linux
   arch: amd64
+workspace:
+  base: oishio
 
 steps:
 - name: submodules
   image: docker:git
-  volumes:
-  - name: cache
-    path: /drone/src/themes/even
   commands:
   - git submodule init
   - git submodule update --recursive --remote
@@ -39,9 +38,4 @@ steps:
     - master
     event:
     - push
-
-volumes:
-- name: cache
-  host:
-    path: /root/blog/git
 ...
