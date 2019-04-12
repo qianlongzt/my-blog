@@ -9,6 +9,9 @@ platform:
 steps:
 - name: submodules
   image: docker:git
+  volumes:
+  - name: cache
+    path: ./themes/even
   commands:
   - git submodule init
   - git submodule update --recursive --remote
@@ -22,11 +25,20 @@ steps:
 - name: release
   image: plugins/docker
   settings:
+    debug: true
     password:
       from_secret: docker_password
     repo: qianlongzt/blog
     tags: latest
     username: qianlongzt
-    debug: true
+  when:
+    branch:
+    - master
+    event:
+    - push
 
+volumes:
+- name: cache
+  host:
+    path: /root/blog/git
 ...
