@@ -23,14 +23,17 @@ steps:
   - hugo
 
 - name: release
-  image: plugins/docker
+  image: docker
   settings:
-    debug: true
     password:
       from_secret: docker_password
     repo: qianlongzt/blog
-    tags: latest
+    tag: latest
     username: qianlongzt
+    commands:
+    - docker login -u ${DRONE_USERNAME} -p ${DRONE_PASSWORD}
+    - docker build -t ${DRONE_REPO}:${DRONE_TAG} .
+    - docker push ${DRONE_REPO}:${DRONE_TAG}
   when:
     branch:
     - master
