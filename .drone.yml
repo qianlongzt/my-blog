@@ -10,6 +10,7 @@ steps:
 - name: submodules
   image: docker:git
   commands:
+  - echo $DRONE $DRONE_BRANCH $DRONE_BUILD_EVENT
   - git submodule init
   - git submodule update --recursive --remote
   - ls ./themes/even
