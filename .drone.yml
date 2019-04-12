@@ -27,6 +27,7 @@ steps:
     repo: qianlongzt/blog
     tags: latest
     username: qianlongzt
+    debug: true
   when:
     branch:
     - master
