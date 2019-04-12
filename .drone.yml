@@ -20,7 +20,7 @@ steps:
   - hugo
 
 - name: release
-  image: docker
+  image: plugins/docker
   settings:
     password:
       from_secret: docker_password
@@ -28,10 +28,5 @@ steps:
     tags: latest
     username: qianlongzt
     debug: true
-  when:
-    branch:
-    - master
-    event:
-    - push
 
 ...
