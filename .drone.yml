@@ -22,6 +22,7 @@ steps:
 - name: release
   image: docker
   commands:
+  - env
   - echo ${PLUGIN_USERNAME} ${PLUGIN_REPO}
   - "docker login -u ${PLUGIN_USERNAME} -p ${PLUGIN_PASSWORD}"
   - "docker build -t ${PLUGIN_REPO}:${PLUGIN_TAG} ."
