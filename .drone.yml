@@ -11,6 +11,7 @@ steps:
   image: docker:git
   commands:
   - git submodule update --recursive --remote
+  - ls ./themes/even
 - name: hugo-builder
   image: jojomi/hugo:0.55.0
   commands:
