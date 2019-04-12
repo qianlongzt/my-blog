@@ -32,5 +32,7 @@ steps:
     - docker build -t ${DRONE_REPO}:${DRONE_TAG} .
     - docker push ${DRONE_REPO}:${DRONE_TAG}
   when:
-    branch: master
+    branch: 
+      include:
+      - master
 ...
