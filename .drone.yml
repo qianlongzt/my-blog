@@ -10,7 +10,6 @@ steps:
 - name: submodules
   image: docker:git
   commands:
-  - echo $DRONE $DRONE_BRANCH $DRONE_BUILD_EVENT
   - git submodule init
   - git submodule update --recursive --remote
   - ls ./themes/even
@@ -22,18 +21,19 @@ steps:
 
 - name: release
   image: docker
+  commands:
+  - echo $DRONE $DRONE_BRANCH $DRONE_BUILD_EVENT
+  - "docker login -u ${DRONE_USERNAME} -p ${DRONE_PASSWORD}"
+  - "docker build -t ${DRONE_REPO}:${DRONE_TAG} ."
+  - "docker push ${DRONE_REPO}:${DRONE_TAG}"
   settings:
     password:
       from_secret: docker_password
     repo: qianlongzt/blog
     tag: latest
     username: qianlongzt
-    commands:
-    - docker login -u ${DRONE_USERNAME} -p ${DRONE_PASSWORD}
-    - docker build -t ${DRONE_REPO}:${DRONE_TAG} .
-    - docker push ${DRONE_REPO}:${DRONE_TAG}
   when:
-    branch: 
-      include:
-      - master
+    branch:
+    - master
+
 ...
