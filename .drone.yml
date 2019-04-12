@@ -13,8 +13,24 @@ steps:
   - git submodule init
   - git submodule update --recursive --remote
   - ls ./themes/even
+
 - name: hugo-builder
   image: jojomi/hugo:0.55.0
   commands:
   - hugo
+
+- name: release
+  image: docker
+  settings:
+    password:
+      from_secret: docker_password
+    repo: qianlongzt/blog
+    tags: latest
+    username: qianlongzt
+  when:
+    branch:
+    - master
+    event:
+    - push
+
 ...
